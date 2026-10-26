@@ -1,0 +1,62 @@
+[
+    {
+        "category": "General",
+        "question": "What is CodeAlpha?",
+        "answer": "CodeAlpha is a premier software development and tech innovation company providing real-world internship experiences in emerging technologies including Artificial Intelligence, Machine Learning, and Web Engineering."
+    },
+    {
+        "category": "Internship",
+        "question": "What are the perks of the CodeAlpha internship?",
+        "answer": "Internship perks include an Internship Offer Letter, QR-verified Completion Certificate, Unique ID Certificate, Letter of Recommendation (based on performance), and career/resume building support."
+    },
+    {
+        "category": "Internship",
+        "question": "How many tasks do I need to complete for the internship certificate?",
+        "answer": "To be eligible for the internship certificate, participants must complete a minimum of two or three tasks from their assigned track. Submitting only one task is considered incomplete."
+    },
+    {
+        "category": "Submission",
+        "question": "How do I submit my completed internship tasks?",
+        "answer": "You must upload your source code to GitHub in repositories named 'CodeAlpha_ProjectName', post a video explanation on LinkedIn tagging @CodeAlpha, and submit your project links via the official Submission Form shared in your WhatsApp group."
+    },
+    {
+        "category": "General AI",
+        "question": "What is Artificial Intelligence (AI)?",
+        "answer": "Artificial Intelligence is the simulation of human intelligence processes by computer systems, encompassing learning (acquiring information and rules), reasoning (using rules to reach conclusions), and self-correction."
+    },
+    {
+        "category": "Machine Learning",
+        "question": "What is the difference between supervised and unsupervised learning?",
+        "answer": "Supervised learning algorithms are trained on labeled datasets where the target outcome is known, whereas unsupervised learning discovers hidden patterns and intrinsic groupings in unlabeled datasets without explicit target labels."
+    },
+    {
+        "category": "Natural Language Processing",
+        "question": "What is Natural Language Processing (NLP)?",
+        "answer": "Natural Language Processing (NLP) is a branch of AI focused on giving computers the ability to understand, interpret, and manipulate human spoken and written languages using techniques like tokenization, lemmatization, and vector embeddings."
+    },
+    {
+        "category": "Natural Language Processing",
+        "question": "What is TF-IDF and Cosine Similarity in NLP?",
+        "answer": "TF-IDF (Term Frequency - Inverse Document Frequency) quantifies word importance within a document collection. Cosine similarity calculates the cosine of the angle between two multi-dimensional feature vectors to measure textual or semantic similarity between 0 and 1."
+    },
+    {
+        "category": "Deep Learning",
+        "question": "What is a Neural Network?",
+        "answer": "A neural network is an interconnected assembly of computational nodes (neurons) organized in layers that process input signals and learn complex non-linear patterns through forward propagation and backpropagation."
+    },
+    {
+        "category": "Deep Learning",
+        "question": "What is an LSTM and how does it handle sequences?",
+        "answer": "Long Short-Term Memory (LSTM) is a specialized recurrent neural network (RNN) architecture designed to retain long-term dependencies and alleviate the vanishing gradient problem using input, forget, and output gates."
+    },
+    {
+        "category": "Computer Vision",
+        "question": "What is Object Detection in AI?",
+        "answer": "Object detection is a computer vision task that involves both identifying the category of objects within an image or video stream and locating them using bounding box coordinates."
+    },
+    {
+        "category": "Music Generation",
+        "question": "How can AI generate music?",
+        "answer": "AI generates music by learning sequential note representations, rhythms, and chord transitions from MIDI datasets using models like recurrent neural networks (LSTMs) or generative models, and outputting structured note sequences."
+    }
+]
